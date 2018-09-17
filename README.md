@@ -7,6 +7,7 @@ Description
 **CuteInterpreter requires Python.**
 - Just run
 ```
+python3 [PL]TERM.py
 ```
 Example
 ----------
